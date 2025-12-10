@@ -1,0 +1,6 @@
+streamlit>=1.30.0
+paho-mqtt>=2.0.0
+pandas
+plotly
+scikit-learn
+joblib

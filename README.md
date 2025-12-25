@@ -68,3 +68,6 @@ The dashboard is built using Streamlit, while the Machine Learning model runs on
    streamlit run dashboard.py
    ```
 5. Ensure the MQTT broker is running and IoT sensors are publishing data to the correct topics.
+
+## Video
+[https://github.com/mahyamadelta/SIGMA-AI/blob/main/video.mp4](https://github.com/user-attachments/assets/b8f6ebbd-47b2-438c-8bdb-3aa076e54871)
